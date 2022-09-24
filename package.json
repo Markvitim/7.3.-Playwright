@@ -1,0 +1,15 @@
+{
+  "name": "7.3-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0",
+    "playwright": "^1.26.0"
+  }
+}
